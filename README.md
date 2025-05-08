@@ -5,6 +5,7 @@ This AI tool helps an HR with leave management related tasks. This code will int
 ## Setup
 
 1 Install Claude Desktop (FREE VERSION or PAID VERSION)
+
 2 Install uv by running
 ```bash
 pip install uv

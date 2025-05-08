@@ -10,4 +10,8 @@ This AI tool helps an HR with leave management related tasks. This code will int
 ```bash
 pip install uv
 ```
-3 
+3 Run
+```bash
+uv init my-first-mcp-server 
+```
+to create a project directory.

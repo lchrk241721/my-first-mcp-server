@@ -22,3 +22,13 @@ uv add "mcp[cli]"
 ```bash
 pip install --upgrade typer
 ```
+6 Write code in main.py for leave management server
+7 Install this server inside Claude desktop by running the following command in the project directory
+```bash
+uv run mcp install main.py
+```
+8 Kill any running instance of Claude from Task Manager. Restart Claude Desktop
+9 In Claude desktop, now you will see tools from this server
+
+## IMPORTANT NOTE
+**This MCP server will run smoothly only if we are having "PAID VERSION" of Claude Desktop. In FREE VERSION, it won't work**
